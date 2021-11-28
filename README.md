@@ -1,2 +1,2 @@
-# Algohack-Admin
-The admin side of algorithm hacking platform. (Admin platform) 
+# Algohack-IITMandi-Admin
+The admin platform for Algohack.
